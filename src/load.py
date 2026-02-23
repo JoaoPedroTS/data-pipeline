@@ -9,7 +9,7 @@ load_dotenv(env_path)
 user = os.getenv("DATABASE_USER")
 password = os.getenv("DATABASE_PASSWORD")
 database = os.getenv("DATABASE")
-host = "127.0.0.1"
+host = "host.docker.internal"
 
 if not all([user, password, database]):
     raise ValueError("Variáveis de ambiente do banco não definidas")
