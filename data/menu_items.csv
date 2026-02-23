@@ -1,0 +1,39 @@
+id,establishment_id,name,category,price,cost,is_available,is_vegan,is_gluten_free,created_at
+1,1,Espresso,coffee,6.5,2.1,True,False,True,2024-01-01
+2,1,Cappuccino,coffee,8.0,2.8,True,False,True,2024-01-01
+3,1,Latte,coffee,9.0,3.0,True,False,True,2024-01-01
+4,1,Mocha,coffee,10.0,3.5,True,False,True,2024-01-01
+5,1,Croissant,food,9.5,4.0,True,False,False,2024-01-01
+6,1,Brownie,food,7.0,2.5,True,False,False,2024-01-01
+7,2,Espresso,coffee,6.0,2.0,True,False,True,2024-01-02
+8,2,Cappuccino,coffee,8.5,3.0,True,False,True,2024-01-02
+9,2,Latte,coffee,9.5,3.2,True,False,True,2024-01-02
+10,2,Matcha Latte,tea,11.0,3.8,True,True,True,2024-01-02
+11,2,Pão de Queijo,food,6.0,2.5,True,False,False,2024-01-02
+12,2,Cheesecake,dessert,12.0,5.0,True,False,False,2024-01-02
+13,3,Flat White,coffee,7.5,2.5,True,False,True,2024-01-03
+14,3,Americano,coffee,6.0,2.0,True,False,True,2024-01-03
+15,3,Iced Latte,coffee,9.5,3.2,True,False,True,2024-01-03
+16,3,Muffin,food,8.0,3.5,True,False,False,2024-01-03
+17,3,Avocado Toast,food,12.5,5.0,True,True,False,2024-01-03
+18,4,Espresso,coffee,5.5,1.8,True,False,True,2024-01-04
+19,4,Cortado,coffee,7.0,2.5,True,False,True,2024-01-04
+20,4,Cold Brew,coffee,8.5,3.0,True,False,True,2024-01-04
+21,4,Banana Bread,food,7.5,3.0,True,False,False,2024-01-04
+22,5,Espresso,coffee,6.0,2.0,True,False,True,2024-01-05
+23,5,Cappuccino,coffee,8.5,3.0,True,False,True,2024-01-05
+24,5,Pour Over,coffee,9.0,3.5,True,False,True,2024-01-05
+25,5,Vegan Cookie,dessert,6.5,2.5,True,True,True,2024-01-05
+26,5,Açaí Bowl,food,11.0,4.5,True,True,True,2024-01-05
+27,6,Latte,coffee,8.5,3.0,True,False,True,2024-01-06
+28,6,Mocha,coffee,9.5,3.5,True,False,True,2024-01-06
+29,6,Bagel,food,8.0,3.5,True,False,False,2024-01-06
+30,6,Smoothie,beverage,10.0,4.0,True,True,True,2024-01-06
+31,7,Espresso,coffee,7.0,2.5,True,False,True,2024-01-07
+32,7,Cappuccino,coffee,9.0,3.2,True,False,True,2024-01-07
+33,7,Chai Latte,tea,10.0,3.5,True,False,True,2024-01-07
+34,7,Pancakes,food,14.0,6.0,True,False,False,2024-01-07
+35,7,Salad,food,13.5,5.5,True,True,True,2024-01-07
+36,8,Flat White,coffee,7.5,2.8,True,False,True,2024-01-08
+37,8,Americano,coffee,6.5,2.2,True,False,True,2024-01-08
+38,8,Pastry,food,7.0,3.0,True,False,False,2024-01-08
